@@ -11,5 +11,10 @@
   <main>
   {{ content | safe }}
   </main>
+
+  {%- set js -%}
+    {%- include "js/fetch-joke.js" -%}
+  {% endset -%}
+  <script>{{ js | safe}}</script>
 </body>
 </html>
