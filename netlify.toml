@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build"
+  functions = "src/functions"
+
+
+[[redirects]]
+  from = "/api/hello/:name"
+  to = "/.netlify/functions/hello?name=:name"
+  status = 200
+
+
