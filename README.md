@@ -4,10 +4,10 @@ A starting pint for some examples.
 
 ## Clone and deploy with a click
 
-You can get started with your own version of this site with a couple of clicks. the button below will cline this repo to your own GitHub account and link it to a new site for you on [Netlfy](https://www.netlify.com)
+You can get started with your own version of this site with a couple of clicks. the button below will cline this repo to your own GitHub account and link it to a new site for you on [Netlfy](https://www.netlify.com?utm_source=github&utm_medium=general-support-pnh&utm_campaign=devex)
 
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/speedrun)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/speedru&utm_source=github&utm_medium=general-support-pnh&utm_campaign=devex)
 
 
 ## Local development
@@ -15,7 +15,7 @@ You can get started with your own version of this site with a couple of clicks. 
 To build the site you need:
 
 - [Node](https://nodejs.org)(and npm) - to run the build
-- [Netlify CLI]() - for local Netlify goodies
+- [Netlify CLI](https://docs.netlify.com/cli/get-started/?utm_source=github&utm_medium=general-support-pnh&utm_campaign=devex) - for local Netlify goodies
 
 
 
@@ -65,6 +65,6 @@ And since `ntl dev` also supports Netlify redirects API, we acn specify a redire
 
 The build command `npm run build` will generate a set of static assets in a `dist` folder which can be deployed to any web hosting service.
 
-[Netlify](http://www.netlify.com) will run this build process in a CI environment and then deploy the build automatically to a global CDN. Such deployments are [triggered automatically](https://www.netlify.com/docs/continuous-deployment/) by every git push to the `master` branch of the origin repository.
+[Netlify](http://www.netlify.com?utm_source=github&utm_medium=general-support-pnh&utm_campaign=devex) will run this build process in a CI environment and then deploy the build automatically to a global CDN. Such deployments are [triggered automatically](https://www.netlify.com/docs/continuous-deployment/?utm_source=github&utm_medium=general-support-pnh&utm_campaign=devex) by every git push to the `master` branch of the origin repository.
 
 
