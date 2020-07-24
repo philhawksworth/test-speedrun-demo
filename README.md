@@ -56,7 +56,7 @@ This route should hit your local Netlify Function:
 
 `http://localhost:8888/.netlify/functions/hello?name=friend`
 
-And since `ntl dev` also supports Netlify redirects API, we acn specify a redirect to that toop, and five it a nicer URL like:
+And since `ntl dev` also supports Netlify redirects API, we can specify a redirect to that too, and give it a nicer URL like:
 
 `http://localhost:8888/api/hello/you!`
 
