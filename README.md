@@ -1,6 +1,6 @@
 ## Overview
 
-A starting pint for some examples.
+A starting point for some examples.
 
 ## Clone and deploy with a click
 
