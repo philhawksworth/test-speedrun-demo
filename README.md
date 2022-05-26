@@ -4,7 +4,7 @@ A starting point for some examples.
 
 ## Clone and deploy with a click
 
-You can get started with your own version of this site with a couple of clicks. the button below will cline this repo to your own GitHub account and link it to a new site for you on [Netlfy](https://www.netlify.com?utm_source=github&utm_medium=general-support-pnh&utm_campaign=devex)
+You can get started with your own version of this site with a couple of clicks. the button below will clone this repo to your own GitHub account and link it to a new site for you on [Netlfy](https://www.netlify.com?utm_source=github&utm_medium=general-support-pnh&utm_campaign=devex)
 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/speedrun-demo&utm_source=github&utm_medium=general-support-pnh&utm_campaign=devex)
