@@ -8,9 +8,9 @@
   from = "/api/hello/*"
   to = "/.netlify/functions/hello?name=:splat"
   status = 200
-
-
+  
+  
 [[redirects]]
-  from = "/*"
-  to = "https://eqtventures.com/:splat"
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
   status = 200
