@@ -5,8 +5,8 @@
 
 
 [[redirects]]
-  from = "/api/hello/:name"
-  to = "/.netlify/functions/hello?name=:name"
+  from = "/api/hello/*"
+  to = "/.netlify/functions/hello?name=:splat"
   status = 200
 
 
